@@ -35,6 +35,12 @@ a:link {
 .content-section {
     max-width: 700px;
     margin: 0 auto;
+    /* padding-top: 70px; */
+    scroll-margin-top: 40px;
+}
+
+.section-title{
+    padding-top: 74px;
 }
 
 /* ============== */
@@ -126,16 +132,12 @@ i.home-icon {
 	width: 200px!important;
 }
 
-#projectsCarousel {
-    justify-content: center;
-}
-
 #coursework {
 	list-style: none;
 }
 
 .fa-circle-notch {
-	margin-top: 25px;
+	margin-top: 15px;
 }
 
 /* ================= */
